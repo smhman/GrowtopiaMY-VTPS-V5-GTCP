@@ -1,17 +1,5 @@
 # GrowtopiaMY-VTPS-V5-GTCP
-Welcome Im Leaking This Latest Source By Me Enjoy!
-
-New Added!
-
-rift cape w settings
-
-achievement when locking world
-
-/dye number & /eye number
-
-etc! 
-
-ENJOY!
+vtps files by Time#1337
 
 
 FOLDERS/FILES : https://github.com/TimeTopia/GrowtopiaMY-VTPS-V5-GTCP/releases/tag/VTPSV5
